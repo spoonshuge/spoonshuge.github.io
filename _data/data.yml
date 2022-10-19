@@ -169,10 +169,10 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: VMware WorkSpace One UEM
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: VMware WorkSpace One Access
         level: 98%
 
       - name: Angular
